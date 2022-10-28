@@ -1,0 +1,1 @@
+# minimal-api-keycloak-jwt-service-account
